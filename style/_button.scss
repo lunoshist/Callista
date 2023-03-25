@@ -1,0 +1,55 @@
+.btn {
+
+    width: 100% !important;
+    height: 10% !important;
+
+    background: none;
+    border: none;
+    padding: 7.5px 7.5px;
+    border-radius: 5px;
+
+    font-family: 'Smooch Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+
+    transition: 500ms ease-out;
+
+    
+}
+
+.isActive {
+    font-weight: 600 !important;
+}
+
+button:hover {
+    background: rgba(170, 170, 170, 0.062);
+    transition: 150ms ease-out;
+}
+
+.isActive:hover {
+    font-weight: 600 !important;
+    background: none;
+}  
+
+
+#send {
+    background: none;
+    border: none;
+    padding: 7.5px 7.5px;
+    border-radius: 5px;
+    color: #FFFFFF;
+
+    display: flex;
+    align-items: center;
+
+    transition: 500ms ease-out;
+}
+
+#send:hover {
+    background: rgba(170, 170, 170, 0.062);
+    transition: 150ms ease-out;
+}
