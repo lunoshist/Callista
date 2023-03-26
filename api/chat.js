@@ -1,4 +1,6 @@
-module.exports = async (req, res) => {
+import fetch from 'node-fetch';
+
+export default async (req, res) => {
         const body = req.body;
         return fetch("https://api.openai.com/v1/chat/completions", {
                     method: 'POST',
