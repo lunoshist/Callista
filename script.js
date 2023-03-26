@@ -1,5 +1,3 @@
-const apiKey = process.env.API_KEY; 
-
 const inputField = document.getElementById("user-message");
 const wrappper = document.querySelector('.models--wrapper')
 
