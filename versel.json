@@ -1,11 +1,5 @@
 {
-    "route": [
-        {
-            "src": "api/chat",
-            "methods": [
-                "POST"
-            ],
-            "dest": "api/chat.js"
-        }
+    "routes": [
+      { "src": "/api/chat", "dest": "/api/chat.js" }
     ]
-}
+  }
