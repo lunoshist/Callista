@@ -90,14 +90,14 @@ async function sendRequestToChatGPT() {
         ]
     }
 
-    const response = await fetch("https://api.openai.com/v1/chat/completions", {
-        method: "POST",
+    const response = await fetch('/api/chat', {
+        method: 'POST',
         headers: {
-            "Content-Type": "application/json",
-            "Authorization": `Bearer ${apiKey}`,
+            'Content-Type': 'application/json'
         },
         body: JSON.stringify(apiRequestBody)
     });
+
 
     const data = await response.json();
     let content = data.choices[0].message.content
