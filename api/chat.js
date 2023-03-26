@@ -12,5 +12,5 @@ module.exports = async (req, res) => {
                 })
                 .catch((error) => ({ statusCode: 422, body: { message: 'Internal server error :)' + error }}))
     const data = await response.json();
-    return response.send(data);
+    return res.send(data);
   };
