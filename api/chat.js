@@ -1,6 +1,6 @@
 const apiKey = process.env.API_KEY;
 
-export default async (request, response) => {
+module.exports = async (request, response) => {
     const body = req.body;
     const response = await fetch("https://api.openai.com/v1/chat/completions", {
                     method: 'POST',
