@@ -1,0 +1,621 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 526,
+      "max": [
+        0.3561963438987732,
+        -0.015287930145859718,
+        -0.5927671194076538
+      ],
+      "min": [
+        -0.35886842012405396,
+        -0.480297327041626,
+        -0.9504660964012146
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 6312,
+      "componentType": 5126,
+      "count": 526,
+      "max": [
+        0.9734922647476196,
+        0.9987531900405884,
+        0.9970172643661499
+      ],
+      "min": [
+        -0.9845873713493347,
+        -0.9948503971099854,
+        -0.9986015558242798
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 526,
+      "max": [
+        0.9998323321342468,
+        0.6133741736412048,
+        0.9860863089561462,
+        1.0
+      ],
+      "min": [
+        -0.9999176859855652,
+        -0.6426014304161072,
+        -0.9796620011329651,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 526,
+      "max": [
+        0.8574261665344238,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 2700,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 12624,
+      "componentType": 5126,
+      "count": 146,
+      "max": [
+        0.6997942328453064,
+        0.810582160949707,
+        -0.5354836583137512
+      ],
+      "min": [
+        -0.6997940540313721,
+        0.26940199732780457,
+        -0.8060736656188965
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 14376,
+      "componentType": 5126,
+      "count": 146,
+      "max": [
+        0.9914448857307434,
+        0.991445004940033,
+        -0.13052542507648468
+      ],
+      "min": [
+        -0.9914449453353882,
+        -0.9914449453353882,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 8416,
+      "componentType": 5126,
+      "count": 146,
+      "max": [
+        0.9522958397865295,
+        0.4940861463546753,
+        0.9795362949371338,
+        1.0
+      ],
+      "min": [
+        -0.9522958993911743,
+        -0.20823103189468384,
+        -0.9795297384262085,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 4208,
+      "componentType": 5126,
+      "count": 146,
+      "max": [
+        1.0,
+        0.9999940395355225
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 10800,
+      "componentType": 5125,
+      "count": 792,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 16128,
+      "componentType": 5126,
+      "count": 1218,
+      "max": [
+        1.355480670928955,
+        2.6765551567077637,
+        1.9145628213882446
+      ],
+      "min": [
+        -1.3214315176010132,
+        -2.1317825317382813,
+        -1.029244303703308
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 30744,
+      "componentType": 5126,
+      "count": 1218,
+      "max": [
+        0.9984761476516724,
+        0.9990900158882141,
+        0.9986099600791931
+      ],
+      "min": [
+        -0.9983963966369629,
+        -0.999998152256012,
+        -0.9999321699142456
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 10752,
+      "componentType": 5126,
+      "count": 1218,
+      "max": [
+        0.9999970197677612,
+        0.9935182332992554,
+        0.9989525675773621,
+        1.0
+      ],
+      "min": [
+        -0.9999983310699463,
+        -0.9903517961502075,
+        -0.9995640516281128,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 5376,
+      "componentType": 5126,
+      "count": 1218,
+      "max": [
+        0.99199378490448,
+        0.9797245860099792
+      ],
+      "min": [
+        0.010051131248474121,
+        0.024335574358701706
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 13968,
+      "componentType": 5125,
+      "count": 6576,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "v3dartist (https://sketchfab.com/v3dartist)",
+      "license": "CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)",
+      "source": "https://sketchfab.com/3d-models/baby-groot-7abea7ec9aa44799a97b67bb18719424",
+      "title": "Baby Groot"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 40272,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 15120,
+      "byteOffset": 40272,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 45360,
+      "byteOffset": 55392,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 30240,
+      "byteOffset": 100752,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 130992,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/TeethTeeths1_baseColor.png"
+    },
+    {
+      "uri": "textures/TeethTeeths1_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/TeethTeeths1_normal.png"
+    },
+    {
+      "uri": "textures/TeethEyes1_baseColor.png"
+    },
+    {
+      "uri": "textures/TeethEyes1_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/TeethEyes1_normal.png"
+    },
+    {
+      "uri": "textures/TeethHead1_baseColor.png"
+    },
+    {
+      "uri": "textures/TeethHead1_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/TeethHead1_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "TeethTeeths1",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "TeethEyes1",
+      "normalTexture": {
+        "index": 5
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 4
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "TeethHead1",
+      "normalTexture": {
+        "index": 8
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 6
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Teeth:Teeths_Teeth:Teeths1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Teeth:Eyes_Teeth:Eyes1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Teeth:Head_Teeth:Head1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.08208164320632738,
+        -3.195041735214255e-18,
+        0.014389188768144101,
+        0.0,
+        0.014389188768144101,
+        1.8225786037346344e-17,
+        -0.08208164320632738,
+        0.0,
+        0.0,
+        0.0833333358168602,
+        1.8503717628539684e-17,
+        0.0,
+        -0.07669084519147873,
+        8.237596003346615e-19,
+        -0.00370988342911005,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "4e119e3321ab4a3ebf23561b5a255af2.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        6,
+        8
+      ],
+      "matrix": [
+        -1.0,
+        1.2246467991473532e-16,
+        -1.0106430996148606e-15,
+        0.0,
+        1.2246467991473517e-16,
+        1.0,
+        1.2246467991473532e-16,
+        0.0,
+        1.0106430996148606e-15,
+        1.2246467991473517e-16,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Teeth:GrootLow"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        5.13979993612558e-49,
+        0.0,
+        0.0,
+        -5.13979993612558e-49,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Teeth:Teeths"
+    },
+    {
+      "mesh": 0,
+      "name": "Teeth:Teeths_Teeth:Teeths1_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        5.13979993612558e-49,
+        0.0,
+        0.0,
+        -5.13979993612558e-49,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Teeth:Eyes"
+    },
+    {
+      "mesh": 1,
+      "name": "Teeth:Eyes_Teeth:Eyes1_0"
+    },
+    {
+      "children": [
+        9
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        5.13979993612558e-49,
+        0.0,
+        0.0,
+        -5.13979993612558e-49,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Teeth:Head"
+    },
+    {
+      "mesh": 2,
+      "name": "Teeth:Head_Teeth:Head1_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    },
+    {
+      "sampler": 0,
+      "source": 6
+    },
+    {
+      "sampler": 0,
+      "source": 7
+    },
+    {
+      "sampler": 0,
+      "source": 8
+    }
+  ]
+}

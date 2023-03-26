@@ -1,0 +1,11 @@
+Model Information:
+* title:	President Donald J. Trump  Fly
+* source:	https://sketchfab.com/3d-models/president-donald-j-trump-fly-864527d6deed46d2ad12328474d32a27
+* author:	BitBot Studio (https://sketchfab.com/bitbotstudio)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "President Donald J. Trump  Fly" (https://sketchfab.com/3d-models/president-donald-j-trump-fly-864527d6deed46d2ad12328474d32a27) by BitBot Studio (https://sketchfab.com/bitbotstudio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

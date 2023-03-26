@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dobby Jumping Pose
+* source:	https://sketchfab.com/3d-models/dobby-jumping-pose-8f5f6af92def4ecc96518586ef529da2
+* author:	chloerobyn (https://sketchfab.com/chloerobyn)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dobby Jumping Pose" (https://sketchfab.com/3d-models/dobby-jumping-pose-8f5f6af92def4ecc96518586ef529da2) by chloerobyn (https://sketchfab.com/chloerobyn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

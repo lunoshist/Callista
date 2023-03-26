@@ -1,0 +1,11 @@
+Model Information:
+* title:	albert einstein X mario
+* source:	https://sketchfab.com/3d-models/albert-einstein-x-mario-092eb03671684414a330b6346f2728ee
+* author:	Rached.Abdelkhalek (https://sketchfab.com/Rached.Abdelkhalek)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "albert einstein X mario" (https://sketchfab.com/3d-models/albert-einstein-x-mario-092eb03671684414a330b6346f2728ee) by Rached.Abdelkhalek (https://sketchfab.com/Rached.Abdelkhalek) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
