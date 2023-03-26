@@ -1,7 +1,7 @@
-> # Callista
-> 
-> This is a simple website where you can discuss with famous people or fictional caracter. 
-> The model behind those caracter is gpt-3.5-turbo model from Open AI and work like the popular chatbot Chat GPT.
+>> # Callista
+>> 
+>> This is a simple website where you can discuss with famous people or fictional caracter. 
+>> The model behind those caracter is gpt-3.5-turbo model from Open AI and work like the popular chatbot Chat GPT.
 
 ## How to deploy (completly free)
 
@@ -11,5 +11,5 @@ Host your own live version of Callista with Vercel.
 
 You'll need to enter an openai api key for to get response from caractere
 
-Find your api key there : https://platform.openai.com/account/api-keys
+Find your api key there : <https://platform.openai.com/account/api-keys>
 If you don't have a openai account you'll need to create one
