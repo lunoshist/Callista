@@ -1,4 +1,5 @@
 import fetch from 'node-fetch';
+const apiKey = process.env.API_KEY;
 
 export default async (req, res) => {
         const body = req.body;
