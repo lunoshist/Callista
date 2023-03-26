@@ -1,7 +1,7 @@
 const apiKey = process.env.API_KEY;
 
 module.exports = async (req, res) => {
-    const body = req.body;
+    const body = JSON.stringify(req.body);
     const response = await fetch("https://api.openai.com/v1/chat/completions", {
                     method: 'POST',
                     headers: {
