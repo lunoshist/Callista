@@ -1,35 +1,15 @@
-model-viewer {
-  width: 100%;
-  height: 45vw;
-}
-
 p {
-  font-family: 'Smooch Sans';
-  font-style: normal;
-  font-weight: 300;
-  font-size: 12px;
-  line-height: 30px;
-  /* identical to box height */
-
   display: flex;
   align-items: center;
   text-align: center;
+  
+  font-size: clamp(0.5rem, 1vw + 0.25rem, 0.75rem);
 
-  color: #FFFFFF;
-}
+  a {
+    text-decoration: none;
 
-p a {
-  text-decoration: none;
-
-  font-family: 'Smooch Sans';
-  font-style: normal;
-  font-weight: 300;
-  font-size: 12px;
-  line-height: 30px;
-
-  color: #FFFFFF;
-}
-
-p a:hover{
-  color: #757575;
+    &:hover {
+      color: #757575;
+    }
+  }
 }

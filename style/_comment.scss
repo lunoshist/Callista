@@ -1,24 +1,15 @@
 #titre {
-
-    font-family: 'Smooch Sans';
-    font-style: normal;
-    font-weight: 300;
-    font-size: 20px;
-    line-height: 24px;
-
-    color: #FFFFFF;
-
-    z-index: 100;
+    font-size: clamp(1rem, 4vw + 0.5rem, 2.5rem);
 }
 
 #comment hr {
-    color: #FFFFFF;
     width: 100%;
 }
 
-#bulles {
-    width: 100%;
-    height: 190vh;
+.form {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
 }
 
 #user-message {
@@ -49,18 +40,34 @@
     transition: opacity .3s;
 }
 
+/* Messages */
+#chat-history {
+  display: flex;
+  flex-direction: column-reverse;
+  gap: 0.625em;
+  overflow: scroll;
+  height: 23vw;
+  width: 100%;
+
+  letter-spacing: 0.1em;
+
+  scrollbar-width: none;
+}
+
 
 /* Style pour les messages utilisateur */
 .user-message {
     display: flex;
     flex-direction: row-reverse;
     align-items: center;
+
+    font-size: clamp(0.5rem, 2vw + 0.25rem, 1.25rem);
 }
 .user-message-text {
   background-color: #333333;
   color: #fff;
-  padding: 10px;
-  border-radius: 10px;
+  padding: 0.625em;
+  border-radius: 0.625em;
   max-width: 80%;
 }
 
@@ -72,23 +79,7 @@
 .bot-message {
   background-color: #D9D9D9;
   color: #000;
-  padding: 10px;
-  border-radius: 10px;
+  padding: 0.625em;
+  border-radius: 0.625em;
   max-width: 80%;
-}
-
-.form {
-  width: 100%;
-  display: flex;
-  flex-direction: row;
-}
-
-#chat-history {
-    display: flex;
-    flex-direction: column-reverse;
-    gap: 10px;
-    overflow: scroll;
-    height: 21vw;
-    
-    letter-spacing: 0.1em;
 }
