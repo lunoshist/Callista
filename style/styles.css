@@ -95,7 +95,7 @@ main left {
     gap: 10vw;
   }
   main #modele_3D {
-    width: 60vw;
+    width: 70vw;
   }
   main #modele_3D .models {
     height: 60vh;
@@ -104,8 +104,8 @@ main left {
     height: 60vh;
   }
   #comment {
-    width: 80vw;
-    height: 112vw;
+    width: 75vw;
+    height: 105vw;
   }
 }
 .btn {
