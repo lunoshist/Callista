@@ -69,7 +69,11 @@ const select = (id,name) => {
 
 
     //---------- moove modele ----------
-    wrappper.style.transform = `translateY(${(-window.innerHeight * 0.9) * id}px)`
+    if (window.innerWidth > 600) {
+        wrappper.style.transform = `translateY(${(-window.innerHeight * 0.9) * id}px)`
+    } else {
+        wrappper.style.transform = `translateY(${(-window.innerHeight * 0.5) * id}px)`
+    }
 }
 
 

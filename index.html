@@ -16,45 +16,45 @@
 </head>
 <body>
     <main>
-        <section id="button">
-            <button class="btn isActive" onclick="(() => select(0,'Einstein'))()">Einstein</button>
-            <button class="btn" onclick="(() => select(1,'Groot'))()">Groot</button>
-            <button class="btn" onclick="(() => select(2,'Dobby'))()">Dobby</button>
-            <button class="btn" onclick="(() => select(3,'Elon Musk'))()">Elon Musk</button>
-            <button class="btn" onclick="(() => select(4,'Hagrid'))()">Hagrid</button>
-            <button class="btn" onclick="(() => select(5,'Trump'))()">Trump</button>
-        </section>
-        <section id="modele_3D">
-            <div class="models">
-                <div class="models--wrapper">
-                    <div class="model">
-                        <model-viewer src="./Assets/EinsteinXMario/scene.gltf" alt="A 3D model of Einstein" shadow-intensity="1" camera-controls auto-rotate ar ></model-viewer>
-                    </div>
-                    <div class="model">
-                        <model-viewer src="./Assets/Groot/scene.gltf" alt="A 3D model of Einstein" shadow-intensity="1" camera-controls auto-rotate ar ></model-viewer>
-                    </div>
-                    <div class="model">
-                        <model-viewer src="./Assets/Dobby/scene.gltf" alt="A 3D model of Einstein" shadow-intensity="1" camera-controls auto-rotate ar ></model-viewer>
-                    </div>
-                    <div class="model">
-                        <model-viewer src="./Assets/ElonMusk/scene.gltf" alt="A 3D model of Einstein" shadow-intensity="1" camera-controls auto-rotate ar ></model-viewer>
-                    </div>
-                    <div class="model">
-                        <model-viewer src="./Assets/Hagrid/scene.gltf" alt="A 3D model of Einstein" shadow-intensity="1" camera-controls auto-rotate ar ></model-viewer>
-                    </div>
-                    <div class="model">
-                        <model-viewer src="./Assets/Trump/scene.gltf" alt="A 3D model of Einstein" shadow-intensity="1" camera-controls auto-rotate ar ></model-viewer>
+        <left>
+            <section id="button">
+                <button class="btn isActive" onclick="(() => select(0,'Einstein'))()">Einstein</button>
+                <button class="btn" onclick="(() => select(1,'Groot'))()">Groot</button>
+                <button class="btn" onclick="(() => select(2,'Dobby'))()">Dobby</button>
+                <button class="btn" onclick="(() => select(3,'Elon Musk'))()">Elon Musk</button>
+                <button class="btn" onclick="(() => select(4,'Hagrid'))()">Hagrid</button>
+                <button class="btn" onclick="(() => select(5,'Trump'))()">Trump</button>
+            </section>
+            <section id="modele_3D">
+                <div class="models">
+                    <div class="models--wrapper">
+                        <div class="model">
+                            <model-viewer src="./Assets/EinsteinXMario/scene.gltf" alt="A 3D model of Einstein" shadow-intensity="1" camera-controls auto-rotate ar ></model-viewer>
+                        </div>
+                        <div class="model">
+                            <model-viewer src="./Assets/Groot/scene.gltf" alt="A 3D model of Einstein" shadow-intensity="1" camera-controls auto-rotate ar ></model-viewer>
+                        </div>
+                        <div class="model">
+                            <model-viewer src="./Assets/Dobby/scene.gltf" alt="A 3D model of Einstein" shadow-intensity="1" camera-controls auto-rotate ar ></model-viewer>
+                        </div>
+                        <div class="model">
+                            <model-viewer src="./Assets/ElonMusk/scene.gltf" alt="A 3D model of Einstein" shadow-intensity="1" camera-controls auto-rotate ar ></model-viewer>
+                        </div>
+                        <div class="model">
+                            <model-viewer src="./Assets/Hagrid/scene.gltf" alt="A 3D model of Einstein" shadow-intensity="1" camera-controls auto-rotate ar ></model-viewer>
+                        </div>
+                        <div class="model">
+                            <model-viewer src="./Assets/Trump/scene.gltf" alt="A 3D model of Einstein" shadow-intensity="1" camera-controls auto-rotate ar ></model-viewer>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <p id="licence"><a href="https://skfb.ly/oDxS9" title="Go to sketchFAB page" target="_blank">"albert einstein X mario"</a>&thinsp;by Rached.Abdelkhalek licensed under CC-BY-4.0</p>
-        </section>
+                <p id="licence"><a href="https://skfb.ly/oDxS9" title="Go to sketchFAB page" target="_blank">"albert einstein X mario"</a>&thinsp;by Rached.Abdelkhalek licensed under CC-BY-4.0</p>
+            </section>
+        </left>
         <section id="comment">
             <p id="titre">Einstein</p>
             <hr></hr>
-            <section id="bulles">
-                <div id="chat-history"></div>                
-            </section>
+            <div id="chat-history"></div>
             <hr></hr>
             <div class="form">
                 <input type="text" id="user-message" placeholder="Commencer à discuter avec Einstein ..."">

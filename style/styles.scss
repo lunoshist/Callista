@@ -1,15 +1,11 @@
-@import './_modele.scss';
-@import './button';
-@import './layout';
-@import './comment';
-@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
-
-
 * {
   margin: 0;
   padding: 0;
   font-family: 'Smooch Sans';
   font-style: normal;
+  font-weight: 300;
+
+  color: white;
 }
 
 body {
@@ -19,3 +15,8 @@ body {
 ::-webkit-scrollbar {
   display: none;
 }
+
+@import './_layout.scss';
+@import './_button.scss';
+@import './_modele.scss';
+@import './_comment.scss';
