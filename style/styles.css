@@ -92,20 +92,23 @@ main left {
     flex-direction: column;
     flex-wrap: nowrap;
     justify-content: flex-start;
-    gap: 10vw;
   }
   main #modele_3D {
     width: 70vw;
   }
   main #modele_3D .models {
-    height: 60vh;
+    height: 50vh;
   }
   main #modele_3D .models .models--wrapper .model {
-    height: 60vh;
+    height: 50vh;
   }
   #comment {
     width: 75vw;
     height: 105vw;
+    margin: 5vw;
+  }
+  #comment #chat-history {
+    height: 50vw;
   }
 }
 .btn {

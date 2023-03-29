@@ -88,15 +88,14 @@ main {
         flex-direction: column;
         flex-wrap: nowrap;
         justify-content: flex-start;
-        gap: 10vw;
 
         #modele_3D {
             width: 70vw;
             
             .models {
-                height: 60vh;
+                height: 50vh;
                 .models--wrapper .model {
-                    height: 60vh;
+                    height: 50vh;
                 }
             }
         }
@@ -105,5 +104,10 @@ main {
     #comment {
         width: 75vw;
         height: 105vw;
+        margin: 5vw;
+
+        #chat-history {
+            height: 50vw;
+        }
     }
 }
